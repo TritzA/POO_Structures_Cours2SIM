@@ -1,4 +1,4 @@
-# POO_Structures_Cours2SIM
+# POO-Structures-Cours-2-SIM
 
 Cours : 420-SCB-MA STRUCTURES DE DONNÉES ET PROGRAMMATION ORIENTÉE OBJET
 
